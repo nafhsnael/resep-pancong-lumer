@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resep Kue Pancong Lumer</title>
+</head>
+<body  bgcolor="#F8F0E5">
+    <h1><center>Resep Kue Pancong Lumer</center></h1>
+    <br><br>
+    <h4>Bahan Bahan : </h4>
+    <img src="pancong.jpeg" width="225" alt="pancong "align="right" hspace="50" vspace="10" style="border-radius: 10px;">
+    <ul style="list-style-type: '&#127860'">
+        <li>5 sdm tepung terigu</li>
+        <li>4 sdm gula pasir</li>
+        <li>1 butir telur</li>
+        <li>1 butir telur</li>
+        <li>1/2 sdm fermipan</li>
+        <li>1/2 sdt soda kue</li>
+        <li>1 sendok takar susu bubuk</li>
+        <li>Mentega yg diencerkan</li>
+        <li>Sejumput garam</li>
+        <li>secukupnya Air</li>
+        <li>Topping</li>
+        <li>Keju</li>
+        <li>Meses</li>
+        <li>Susu kental manis</li>  
+    </ul>
+    <hr>
+        <h2>Langkah pembuatan : </h2>
+        <p style="font-size:18px">
+            <ol type="1">
+                <li>
+                    Aduk telur & gula menggunakan mixer hingga warnanya pucat
+                    <br>
+                    <img src="./telur gulaa.jpeg" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Masukan tepung terigu & air sedikit-sedikit
+                    <br>
+                    <img src="./pucat.jpeg" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Masukan garam,aduk rata
+                    <br>
+                    <img src="./garam.jpeg" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Masukan fermipan & susu,aduk lagi
+                    <br>
+                    <img src="./susu.jpg" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Masukan soda kue,aduk rata & diamkan 15 menit
+                    <br>
+                    <img src="./soda_kue.jpeg" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Masak dengan api kecil,tunggu hingga adonan berlubang,tutup cetakannya.
+                    <br>
+                    <img src="./adonan.jpeg" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Jadi deh pancong ½ mateng.
+                    <br>
+                    <img src="./setengah.jpeg" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    taburi topping.
+                    <br>
+                    <img src="./pancongggg.jpeg" width="150" style="border-radius: 10px;">
+                </li>
+                <li>
+                    Silahkan di recook 😁               
+                </li>
+            </ol>
+</body>
+</html>
